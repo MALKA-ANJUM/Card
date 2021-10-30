@@ -1,0 +1,240 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+}
+
+body{
+    background-color: #002820;
+    margin: 20px 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+   font-size: 50px;
+   text-shadow: 5px 5px 50px black;
+   padding: 50px;
+}
+
+.main{
+    display: flex;
+  float: left;
+  width: 100%; 
+  justify-content: center;
+  
+}
+
+
+
+h2{
+    text-align: center;  
+    margin-bottom: 10px;
+    
+    
+}
+
+ul{
+    list-style: none;
+    padding: 10px;
+    line-height: 1.8;
+    text-align: left;
+    position: relative;
+    left: 25px;
+}
+
+   /* CARD 1 */
+.card1{
+    background-color: white;
+    border-radius: 30px;
+    margin: 30px;
+    
+        
+}
+
+.head1{
+    text-align: center;
+    background-color: #009578;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 30px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.list1{
+    padding: 5px 10px;
+}
+
+.p1{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.price1{
+    text-align: center;
+    padding: 10px;
+}
+
+.cost1{
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+
+.btn1{
+    background-color: white;
+    border-color: #77B2A1;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+    color: #77B2A1;
+    width: 40%;
+}
+
+.footer1{
+   padding: 0px 20px 15px 20px;
+
+}
+
+
+   /* CARD2 */
+
+.card2{
+    background-color: white;
+    border-radius: 30px; 
+    margin: 10px; 
+   
+     
+}
+
+.prefer{
+    text-align: center;
+    background-color: #007C64;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    color: white;
+    font-size: medium;
+    padding: 10px;
+}
+
+.head2{
+    text-align: center;
+    background-color: #009578;
+    
+    padding: 30px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.list2{
+    padding: 5px;
+}
+
+.p2{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.price2{
+    text-align: center;
+    padding: 10px;
+}
+
+.cost2{
+    font-size: 40px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+
+.btn2{
+    background-color: white;
+    border-color: #77B2A1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0px;
+    font-weight: bold;
+    color: #77B2A1;
+    width: 40%;
+    
+}
+
+.footer2{
+  padding: 0px 20px 0px 20px;
+  
+}
+
+
+
+
+
+   /* CARD3 */
+
+.card3{
+    background-color: white;
+    border-radius: 30px; 
+    margin: 30px;   
+}
+
+.head3{
+    text-align: center;
+    background-color: #009578;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 30px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.p3{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.price3{
+    text-align: center;
+    padding: 10px;
+}
+
+.cost3{
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+
+
+.btn3{
+    background-color: white;
+    border-color: #77B2A1;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+    color: #77B2A1;
+    width: 40%;
+}
+
+button:hover{
+    background-color: #007C64;
+}
+
+
+.footer3{
+  
+    padding: 0px 12px 0px 12px;
+}
